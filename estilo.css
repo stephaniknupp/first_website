@@ -48,4 +48,8 @@ form{
     flex-direction: column;
     margin-top: 20px;
     margin-right: 10px;
+    display: flex;
+    width: 400px;
+    height: 400px;
+    margin: auto;
 }
