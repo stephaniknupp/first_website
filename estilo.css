@@ -1,0 +1,51 @@
+.cabecalho h1{
+ font-size: 30px; 
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color: purple;
+ text-transform: uppercase;
+ padding: 0 10px;
+ flex-direction: column;
+ text-align: center;
+ background-color: powderblue;
+}
+h2{
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h4{
+    color: palevioletred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{  
+ font-size: 14px; 
+ color: purple;
+ padding: 0 10px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a  {
+	color: #ff0000;
+}
+a:hover { 
+	color: #000000;
+	text-decoration: none;
+		font-weight: bold;
+}
+a:active{
+    color: yellow;
+    text-decoration: none;
+    font-weight: italic;
+}
+
+.conteudo{
+    flex-direction: column;
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    flex-direction: column;
+    margin-top: 20px;
+    margin-right: 10px;
+}
